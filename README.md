@@ -1,25 +1,12 @@
-<div align="center">
-  <h2 style="color: #5865F2;">Estudante de ADS pela PUCPR</h2>
-</div>
+# 👾 Ryan Schultz
 
-### 👋 Olá
+![C# Developer](https://img.shields.io/badge/C%23-Developer-teal?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=dotnet)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR e um entusiasta do desenvolvimento focado em performance e escalabilidade. Atualmente, passo meus dias escrevendo **C#**.
-
-- 🎓 **Estudante de análise e desenvolvimento de sistemas.**
-- 💻 **C#, ASP.NET Core.**
+Software developer passionate about building efficient and elegant C# applications.
 
 ---
 
-### Toolbox (Meu Arsenal)
+## Hello, World
 
-
-### Vamos trocar uma ideia?
-
-[![Linkedin](https://shields.io)](https://www.linkedin.com/in/ryan-gon%C3%A7alves-schultz-7672bb248/)
-
-<br />
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
-</div>
+```csharp
