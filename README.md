@@ -13,14 +13,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR e um entusiasta
 
 ### Toolbox (Meu Arsenal)
 
-![Windows](https://shields.io)
-![Visual Studio](https://shields.io)
-![C#](https://shields.io)
-![.NET Core](https://shields.io)
-![Azure](https://shields.io)
-![SQL Server](https://shields.io)
-
----
 
 ### Vamos trocar uma ideia?
 
