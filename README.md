@@ -24,7 +24,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR e um entusiasta
 
 ### Vamos trocar uma ideia?
 
-[![Linkedin](https://shields.io)](COLE_O_LINK_DO_SEU_PERFIL_AQUI)
+[![Linkedin](https://shields.io)](https://www.linkedin.com/in/ryan-gon%C3%A7alves-schultz-7672bb248/)
 
 <br />
 
